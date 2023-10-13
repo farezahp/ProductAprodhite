@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GridAprodhite</string>
+    <string name="makeup_1_title">makeup</string>
+    <string name="makeup_1_brand">maybelline</string>
+    <string name="makeup_2_title">lip product</string>
+    <string name="makeup_2_brand">lip product</string>
+    <string name="makeup_3_title">bedak</string>
+    <string name="makeup_3_brand">maybelline</string>
+    <string name="makeup_4_title">foundation</string>
+    <string name="makeup_4_brand">maybelline</string>
+    <string name="makeup_5_title">lip cream</string>
+    <string name="makeup_5_brand">maybelline</string>
+    <string name="makeup_6_title">lip</string>
+    <string name="makeup_6_brand">maybelline</string>
+    <string name="makeup_7_title">bedak</string>
+    <string name="makeup_7_brand">maybelline</string>
+    <string name="makeup_8_title">conceal</string>
+    <string name="makeup_8_brand">maybelline</string>
+    <string name="makeup_9_title">foundi</string>
+    <string name="makeup_9_brand">maybelline</string>
+    <string name="makeup_10_title">maskara</string>
+    <string name="makeup_10_brand">maybelline</string>
+    <string name="makeup_11_title">lipps</string>
+    <string name="makeup_11_brand">maybelline</string>
+    <string name="makeup_12_title">foundation</string>
+    <string name="makeup_12_brand">maybelline</string>
+</resources>
